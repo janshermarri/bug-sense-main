@@ -25,18 +25,8 @@ jobs:
       - run: pip install -r requirements.txt
       - run: python --version
       - run: mypy --version
-  run-mypy:
-    docker:
-      - image: cimg/base:stable
-    # Add steps to the job
-    # See: https://circleci.com/docs/2.0/configuration-reference/#steps
-    steps:
-      - checkout
-      - run:
-          name: "Running mypy..."
-          command: "mypy ."
+      - run: mypy .
 
-# Invoke jobs via workflows
 # See: https://circleci.com/docs/2.0/configuration-reference/#workflows
 workflows:
   build-workflow:
@@ -45,6 +35,3 @@ workflows:
   say-hello-workflow:
     jobs:
       - say-hello
-  run-mypy-workflow:
-    jobs:
-      - run-mypy

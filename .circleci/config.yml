@@ -24,6 +24,7 @@ jobs:
       - checkout
       - run: pip install -r requirements.txt
       - run: python --version
+      - run: mypy --version
   run-mypy:
     docker:
       - image: cimg/base:stable

@@ -2,7 +2,7 @@
 
 ## Description
 
-Will be added in future...
+Will be added in the future...
 
 ## Project ERD
 

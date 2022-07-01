@@ -1,0 +1,17 @@
+version: "3.7"
+services:
+  bug_sense_main:
+    build:
+      context: .
+    container_name: "bug_sense_main"
+    env_file: .env
+    environment:
+      - DEBUG_VSCODE=1
+    ports:
+      - "8000:8000"
+      - "5890:5890"
+    volumes:
+      - type: bind
+        source: .
+        target: /home/jansher/Practice Projects/Python/Django/bug_sense_main
+    command: uwsgi --ini=uwsgi.ini

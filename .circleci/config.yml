@@ -20,8 +20,8 @@ jobs:
   build:
     docker:
       - image: cimg/python:3.10.5
-    branches:
-      filters:
+    filters:
+      branches:
         only:
           - main
     steps:

@@ -1,4 +1,5 @@
 from django.db import models
+from django.contrib.auth.models import User
 
 STATUS_CHOICES = [
     ('TODO', 'To Do'),
@@ -36,3 +37,12 @@ class Bug(models.Model):
     def __str__(self):
         return self.bug_name + " " + self.user_id + " " + self.project_id
 
+
+class Comments(models.Model):
+    user_id = models.ForeignKey(User, on_delete=models.CASCADE)
+    project_id = models.ForeignKey(Project, on_delete=models.CASCADE)
+    bug_id = models.ForeignKey(Bug, on_delete=models.CASCADE)
+    comment_text = models.TextField(blank=True, max_length=2048)
+
+    def __str__(self):
+        return self.user_id + '-' + self.comment_text + '-' + self.bug_id

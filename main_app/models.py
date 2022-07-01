@@ -38,7 +38,7 @@ class Bug(models.Model):
         return self.bug_name + " " + self.user_id + " " + self.project_id
 
 
-class Comments(models.Model):
+class Comment(models.Model):
     user_id = models.ForeignKey(User, on_delete=models.CASCADE)
     project_id = models.ForeignKey(Project, on_delete=models.CASCADE)
     bug_id = models.ForeignKey(Bug, on_delete=models.CASCADE)

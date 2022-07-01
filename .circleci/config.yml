@@ -17,26 +17,30 @@ jobs:
       - run:
           name: "Say hello"
           command: "echo Hello, World!"
-  build:
-    docker:
-      - image: cimg/python:3.10.5
-    steps:
-      - checkout
-      - run: pip install -r requirements.txt
-      - run: python --version
-      - run: mypy --version
-      - run: eb --version
-      - run: mypy . --ignore-missing-imports
+  # build:
+  #   docker:
+  #     - image: cimg/python:3.10.5
+  #   steps:
+  #     - checkout
+  #     - run: pip install -r requirements.txt
+  #     - run: python --version
+  #     - run: mypy --version
+  #     - run: eb --version
+  #     - run: mypy . --ignore-missing-imports
 
 # See: https://circleci.com/docs/2.0/configuration-reference/#workflows
 workflows:
-  build-workflow:
-    jobs:
-      - build:
-        filters:
-          branches:
-            only:
-              - main
+  # build-workflow:
+  #   jobs:
+  #     - build:
+  #       filters:
+  #         branches:
+  #           only:
+  #             - main
   say-hello-workflow:
     jobs:
-      - say-hello
+      - say-hello:
+          filters:
+            branches:
+              only:
+                - main

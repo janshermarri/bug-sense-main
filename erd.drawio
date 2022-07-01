@@ -3,6 +3,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         <mxGraphModel dx="1028" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
@@ -20,6 +21,8 @@
 >>>>>>> e782bc4 (Multiple changes (#6))
 =======
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+>>>>>>> e782bc4 (Multiple changes (#6))
         <mxGraphModel dx="1527" dy="839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
@@ -34,11 +37,14 @@
                     <mxGeometry y="30" width="180" height="30" as="geometry"/>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> b786a11 (erd of project and readme file (#5))
 =======
 >>>>>>> e782bc4 (Multiple changes (#6))
 =======
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+>>>>>>> e782bc4 (Multiple changes (#6))
                 </mxCell>
                 <mxCell id="4" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" parent="3" vertex="1">
                     <mxGeometry width="30" height="30" as="geometry">
@@ -46,6 +52,7 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="5" value="project_id " style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" parent="3" vertex="1">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -60,6 +67,8 @@
 >>>>>>> e782bc4 (Multiple changes (#6))
 =======
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+>>>>>>> e782bc4 (Multiple changes (#6))
                     <mxGeometry x="30" width="150" height="30" as="geometry">
                         <mxRectangle width="150" height="30" as="alternateBounds"/>
                     </mxGeometry>
@@ -68,11 +77,14 @@
                     <mxGeometry y="60" width="180" height="30" as="geometry"/>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> b786a11 (erd of project and readme file (#5))
 =======
 >>>>>>> e782bc4 (Multiple changes (#6))
 =======
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+>>>>>>> e782bc4 (Multiple changes (#6))
                 </mxCell>
                 <mxCell id="7" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" parent="6" vertex="1">
                     <mxGeometry width="30" height="30" as="geometry">
@@ -80,6 +92,7 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="8" value="project_name" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="6" vertex="1">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -107,6 +120,8 @@
 >>>>>>> e782bc4 (Multiple changes (#6))
 =======
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+>>>>>>> e782bc4 (Multiple changes (#6))
                     <mxGeometry x="30" width="150" height="30" as="geometry">
                         <mxRectangle width="150" height="30" as="alternateBounds"/>
                     </mxGeometry>
@@ -115,11 +130,14 @@
                     <mxGeometry y="90" width="180" height="30" as="geometry"/>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> b786a11 (erd of project and readme file (#5))
 =======
 >>>>>>> e782bc4 (Multiple changes (#6))
 =======
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+>>>>>>> e782bc4 (Multiple changes (#6))
                 </mxCell>
                 <mxCell id="10" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" parent="9" vertex="1">
                     <mxGeometry width="30" height="30" as="geometry">
@@ -127,6 +145,7 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="11" value="project_description" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="9" vertex="1">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -141,6 +160,8 @@
 >>>>>>> e782bc4 (Multiple changes (#6))
 =======
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+>>>>>>> e782bc4 (Multiple changes (#6))
                     <mxGeometry x="30" width="150" height="30" as="geometry">
                         <mxRectangle width="150" height="30" as="alternateBounds"/>
                     </mxGeometry>
@@ -149,11 +170,14 @@
                     <mxGeometry y="120" width="180" height="30" as="geometry"/>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> b786a11 (erd of project and readme file (#5))
 =======
 >>>>>>> e782bc4 (Multiple changes (#6))
 =======
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+>>>>>>> e782bc4 (Multiple changes (#6))
                 </mxCell>
                 <mxCell id="13" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" parent="12" vertex="1">
                     <mxGeometry width="30" height="30" as="geometry">
@@ -161,6 +185,7 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="14" value="project_status" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="12" vertex="1">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -180,6 +205,8 @@
 >>>>>>> e782bc4 (Multiple changes (#6))
 =======
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+>>>>>>> e782bc4 (Multiple changes (#6))
                     <mxGeometry x="30" width="150" height="30" as="geometry">
                         <mxRectangle width="150" height="30" as="alternateBounds"/>
                     </mxGeometry>
@@ -193,15 +220,19 @@
                 <mxCell id="20" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" vertex="1" parent="19">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> b786a11 (erd of project and readme file (#5))
 =======
 >>>>>>> e782bc4 (Multiple changes (#6))
 =======
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+>>>>>>> e782bc4 (Multiple changes (#6))
                     <mxGeometry width="30" height="30" as="geometry">
                         <mxRectangle width="30" height="30" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -215,10 +246,14 @@
 =======
                 <mxCell id="21" value="bug_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="19">
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+                <mxCell id="21" value="bug_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="19">
+>>>>>>> e782bc4 (Multiple changes (#6))
                     <mxGeometry x="30" width="150" height="30" as="geometry">
                         <mxRectangle width="150" height="30" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -231,10 +266,13 @@
 >>>>>>> e782bc4 (Multiple changes (#6))
 =======
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+>>>>>>> e782bc4 (Multiple changes (#6))
                 <mxCell id="22" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="18">
                     <mxGeometry y="60" width="180" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="23" value="FK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="22">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> b786a11 (erd of project and readme file (#5))
@@ -242,10 +280,13 @@
 >>>>>>> e782bc4 (Multiple changes (#6))
 =======
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+>>>>>>> e782bc4 (Multiple changes (#6))
                     <mxGeometry width="30" height="30" as="geometry">
                         <mxRectangle width="30" height="30" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -259,10 +300,14 @@
 =======
                 <mxCell id="24" value="project_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="22">
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+                <mxCell id="24" value="project_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="22">
+>>>>>>> e782bc4 (Multiple changes (#6))
                     <mxGeometry x="30" width="150" height="30" as="geometry">
                         <mxRectangle width="150" height="30" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -275,10 +320,13 @@
 >>>>>>> e782bc4 (Multiple changes (#6))
 =======
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+>>>>>>> e782bc4 (Multiple changes (#6))
                 <mxCell id="37" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="18">
                     <mxGeometry y="90" width="180" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="38" value="FK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="37">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> b786a11 (erd of project and readme file (#5))
@@ -286,10 +334,13 @@
 >>>>>>> e782bc4 (Multiple changes (#6))
 =======
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+>>>>>>> e782bc4 (Multiple changes (#6))
                     <mxGeometry width="30" height="30" as="geometry">
                         <mxRectangle width="30" height="30" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -303,10 +354,14 @@
 =======
                 <mxCell id="39" value="user_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="37">
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+                <mxCell id="39" value="user_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="37">
+>>>>>>> e782bc4 (Multiple changes (#6))
                     <mxGeometry x="30" width="150" height="30" as="geometry">
                         <mxRectangle width="150" height="30" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -319,10 +374,13 @@
 >>>>>>> e782bc4 (Multiple changes (#6))
 =======
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+>>>>>>> e782bc4 (Multiple changes (#6))
                 <mxCell id="25" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="18">
                     <mxGeometry y="120" width="180" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="26" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="25">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> b786a11 (erd of project and readme file (#5))
@@ -330,10 +388,13 @@
 >>>>>>> e782bc4 (Multiple changes (#6))
 =======
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+>>>>>>> e782bc4 (Multiple changes (#6))
                     <mxGeometry width="30" height="30" as="geometry">
                         <mxRectangle width="30" height="30" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -347,10 +408,14 @@
 =======
                 <mxCell id="27" value="bug_name" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="25">
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+                <mxCell id="27" value="bug_name" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="25">
+>>>>>>> e782bc4 (Multiple changes (#6))
                     <mxGeometry x="30" width="150" height="30" as="geometry">
                         <mxRectangle width="150" height="30" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -363,10 +428,13 @@
 >>>>>>> e782bc4 (Multiple changes (#6))
 =======
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+>>>>>>> e782bc4 (Multiple changes (#6))
                 <mxCell id="28" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="18">
                     <mxGeometry y="150" width="180" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="29" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="28">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> b786a11 (erd of project and readme file (#5))
@@ -374,10 +442,13 @@
 >>>>>>> e782bc4 (Multiple changes (#6))
 =======
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+>>>>>>> e782bc4 (Multiple changes (#6))
                     <mxGeometry width="30" height="30" as="geometry">
                         <mxRectangle width="30" height="30" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -391,10 +462,14 @@
 =======
                 <mxCell id="30" value="bug_description" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="28">
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+                <mxCell id="30" value="bug_description" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="28">
+>>>>>>> e782bc4 (Multiple changes (#6))
                     <mxGeometry x="30" width="150" height="30" as="geometry">
                         <mxRectangle width="150" height="30" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -407,10 +482,13 @@
 >>>>>>> e782bc4 (Multiple changes (#6))
 =======
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+>>>>>>> e782bc4 (Multiple changes (#6))
                 <mxCell id="31" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="18">
                     <mxGeometry y="180" width="180" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="32" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="31">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> b786a11 (erd of project and readme file (#5))
@@ -418,10 +496,13 @@
 >>>>>>> e782bc4 (Multiple changes (#6))
 =======
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+>>>>>>> e782bc4 (Multiple changes (#6))
                     <mxGeometry width="30" height="30" as="geometry">
                         <mxRectangle width="30" height="30" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -435,10 +516,14 @@
 =======
                 <mxCell id="33" value="bug_status" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="31">
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+                <mxCell id="33" value="bug_status" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="31">
+>>>>>>> e782bc4 (Multiple changes (#6))
                     <mxGeometry x="30" width="150" height="30" as="geometry">
                         <mxRectangle width="150" height="30" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -451,10 +536,13 @@
 >>>>>>> e782bc4 (Multiple changes (#6))
 =======
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+>>>>>>> e782bc4 (Multiple changes (#6))
                 <mxCell id="34" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="18">
                     <mxGeometry y="210" width="180" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="35" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="34">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> b786a11 (erd of project and readme file (#5))
@@ -462,10 +550,13 @@
 >>>>>>> e782bc4 (Multiple changes (#6))
 =======
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+>>>>>>> e782bc4 (Multiple changes (#6))
                     <mxGeometry width="30" height="30" as="geometry">
                         <mxRectangle width="30" height="30" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -479,10 +570,14 @@
 =======
                 <mxCell id="36" value="bug_severity" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="34">
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+                <mxCell id="36" value="bug_severity" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="34">
+>>>>>>> e782bc4 (Multiple changes (#6))
                     <mxGeometry x="30" width="150" height="30" as="geometry">
                         <mxRectangle width="150" height="30" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -495,10 +590,13 @@
 >>>>>>> e782bc4 (Multiple changes (#6))
 =======
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+>>>>>>> e782bc4 (Multiple changes (#6))
                 <mxCell id="40" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="18">
                     <mxGeometry y="240" width="180" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="41" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="40">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> b786a11 (erd of project and readme file (#5))
@@ -506,10 +604,13 @@
 >>>>>>> e782bc4 (Multiple changes (#6))
 =======
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+>>>>>>> e782bc4 (Multiple changes (#6))
                     <mxGeometry width="30" height="30" as="geometry">
                         <mxRectangle width="30" height="30" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -523,10 +624,14 @@
 =======
                 <mxCell id="42" value="bug_assignees" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="40">
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+                <mxCell id="42" value="bug_assignees" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="40">
+>>>>>>> e782bc4 (Multiple changes (#6))
                     <mxGeometry x="30" width="150" height="30" as="geometry">
                         <mxRectangle width="150" height="30" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -542,6 +647,8 @@
 >>>>>>> e782bc4 (Multiple changes (#6))
 =======
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+>>>>>>> e782bc4 (Multiple changes (#6))
                 <mxCell id="43" value="User" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
                     <mxGeometry x="55" y="210" width="180" height="180" as="geometry"/>
                 </mxCell>
@@ -551,15 +658,19 @@
                 <mxCell id="45" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" vertex="1" parent="44">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> b786a11 (erd of project and readme file (#5))
 =======
 >>>>>>> e782bc4 (Multiple changes (#6))
 =======
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+>>>>>>> e782bc4 (Multiple changes (#6))
                     <mxGeometry width="30" height="30" as="geometry">
                         <mxRectangle width="30" height="30" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -573,10 +684,14 @@
 =======
                 <mxCell id="46" value="user_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="44">
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+                <mxCell id="46" value="user_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="44">
+>>>>>>> e782bc4 (Multiple changes (#6))
                     <mxGeometry x="30" width="150" height="30" as="geometry">
                         <mxRectangle width="150" height="30" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -589,10 +704,13 @@
 >>>>>>> e782bc4 (Multiple changes (#6))
 =======
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+>>>>>>> e782bc4 (Multiple changes (#6))
                 <mxCell id="47" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="43">
                     <mxGeometry y="60" width="180" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="48" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="47">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> b786a11 (erd of project and readme file (#5))
@@ -600,10 +718,13 @@
 >>>>>>> e782bc4 (Multiple changes (#6))
 =======
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+>>>>>>> e782bc4 (Multiple changes (#6))
                     <mxGeometry width="30" height="30" as="geometry">
                         <mxRectangle width="30" height="30" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -617,10 +738,14 @@
 =======
                 <mxCell id="49" value="user_first_name" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="47">
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+                <mxCell id="49" value="user_first_name" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="47">
+>>>>>>> e782bc4 (Multiple changes (#6))
                     <mxGeometry x="30" width="150" height="30" as="geometry">
                         <mxRectangle width="150" height="30" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -633,10 +758,13 @@
 >>>>>>> e782bc4 (Multiple changes (#6))
 =======
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+>>>>>>> e782bc4 (Multiple changes (#6))
                 <mxCell id="50" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="43">
                     <mxGeometry y="90" width="180" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="51" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="50">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> b786a11 (erd of project and readme file (#5))
@@ -644,10 +772,13 @@
 >>>>>>> e782bc4 (Multiple changes (#6))
 =======
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+>>>>>>> e782bc4 (Multiple changes (#6))
                     <mxGeometry width="30" height="30" as="geometry">
                         <mxRectangle width="30" height="30" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -661,10 +792,14 @@
 =======
                 <mxCell id="52" value="user_last_name" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="50">
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+                <mxCell id="52" value="user_last_name" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="50">
+>>>>>>> e782bc4 (Multiple changes (#6))
                     <mxGeometry x="30" width="150" height="30" as="geometry">
                         <mxRectangle width="150" height="30" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -677,10 +812,13 @@
 >>>>>>> e782bc4 (Multiple changes (#6))
 =======
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+>>>>>>> e782bc4 (Multiple changes (#6))
                 <mxCell id="53" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="43">
                     <mxGeometry y="120" width="180" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="54" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="53">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> b786a11 (erd of project and readme file (#5))
@@ -688,10 +826,13 @@
 >>>>>>> e782bc4 (Multiple changes (#6))
 =======
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+>>>>>>> e782bc4 (Multiple changes (#6))
                     <mxGeometry width="30" height="30" as="geometry">
                         <mxRectangle width="30" height="30" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -705,10 +846,14 @@
 =======
                 <mxCell id="55" value="user_email" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="53">
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+                <mxCell id="55" value="user_email" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="53">
+>>>>>>> e782bc4 (Multiple changes (#6))
                     <mxGeometry x="30" width="150" height="30" as="geometry">
                         <mxRectangle width="150" height="30" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -721,10 +866,13 @@
 >>>>>>> e782bc4 (Multiple changes (#6))
 =======
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+>>>>>>> e782bc4 (Multiple changes (#6))
                 <mxCell id="56" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="43">
                     <mxGeometry y="150" width="180" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="57" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="56">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> b786a11 (erd of project and readme file (#5))
@@ -732,10 +880,13 @@
 >>>>>>> e782bc4 (Multiple changes (#6))
 =======
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+>>>>>>> e782bc4 (Multiple changes (#6))
                     <mxGeometry width="30" height="30" as="geometry">
                         <mxRectangle width="30" height="30" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -749,10 +900,14 @@
 =======
                 <mxCell id="58" value="user_password" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="56">
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+                <mxCell id="58" value="user_password" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="56">
+>>>>>>> e782bc4 (Multiple changes (#6))
                     <mxGeometry x="30" width="150" height="30" as="geometry">
                         <mxRectangle width="150" height="30" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -768,6 +923,8 @@
 >>>>>>> e782bc4 (Multiple changes (#6))
 =======
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+>>>>>>> e782bc4 (Multiple changes (#6))
                 <mxCell id="62" value="Comments" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
                     <mxGeometry x="355" y="20" width="180" height="180" as="geometry"/>
                 </mxCell>
@@ -777,15 +934,19 @@
                 <mxCell id="64" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" vertex="1" parent="63">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> b786a11 (erd of project and readme file (#5))
 =======
 >>>>>>> e782bc4 (Multiple changes (#6))
 =======
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+>>>>>>> e782bc4 (Multiple changes (#6))
                     <mxGeometry width="30" height="30" as="geometry">
                         <mxRectangle width="30" height="30" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -799,10 +960,14 @@
 =======
                 <mxCell id="65" value="comment_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="63">
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+                <mxCell id="65" value="comment_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="63">
+>>>>>>> e782bc4 (Multiple changes (#6))
                     <mxGeometry x="30" width="150" height="30" as="geometry">
                         <mxRectangle width="150" height="30" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -815,10 +980,13 @@
 >>>>>>> e782bc4 (Multiple changes (#6))
 =======
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+>>>>>>> e782bc4 (Multiple changes (#6))
                 <mxCell id="66" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="62">
                     <mxGeometry y="60" width="180" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="67" value="FK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="66">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> b786a11 (erd of project and readme file (#5))
@@ -826,10 +994,13 @@
 >>>>>>> e782bc4 (Multiple changes (#6))
 =======
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+>>>>>>> e782bc4 (Multiple changes (#6))
                     <mxGeometry width="30" height="30" as="geometry">
                         <mxRectangle width="30" height="30" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -843,10 +1014,14 @@
 =======
                 <mxCell id="68" value="user_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="66">
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+                <mxCell id="68" value="user_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="66">
+>>>>>>> e782bc4 (Multiple changes (#6))
                     <mxGeometry x="30" width="150" height="30" as="geometry">
                         <mxRectangle width="150" height="30" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -859,10 +1034,13 @@
 >>>>>>> e782bc4 (Multiple changes (#6))
 =======
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+>>>>>>> e782bc4 (Multiple changes (#6))
                 <mxCell id="69" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="62">
                     <mxGeometry y="90" width="180" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="70" value="FK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="69">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> b786a11 (erd of project and readme file (#5))
@@ -870,10 +1048,13 @@
 >>>>>>> e782bc4 (Multiple changes (#6))
 =======
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+>>>>>>> e782bc4 (Multiple changes (#6))
                     <mxGeometry width="30" height="30" as="geometry">
                         <mxRectangle width="30" height="30" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -887,10 +1068,14 @@
 =======
                 <mxCell id="71" value="project_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="69">
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+                <mxCell id="71" value="project_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="69">
+>>>>>>> e782bc4 (Multiple changes (#6))
                     <mxGeometry x="30" width="150" height="30" as="geometry">
                         <mxRectangle width="150" height="30" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -903,10 +1088,13 @@
 >>>>>>> e782bc4 (Multiple changes (#6))
 =======
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+>>>>>>> e782bc4 (Multiple changes (#6))
                 <mxCell id="72" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="62">
                     <mxGeometry y="120" width="180" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="73" value="FK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="72">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> b786a11 (erd of project and readme file (#5))
@@ -914,10 +1102,13 @@
 >>>>>>> e782bc4 (Multiple changes (#6))
 =======
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+>>>>>>> e782bc4 (Multiple changes (#6))
                     <mxGeometry width="30" height="30" as="geometry">
                         <mxRectangle width="30" height="30" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -931,10 +1122,14 @@
 =======
                 <mxCell id="74" value="bug_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="72">
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+                <mxCell id="74" value="bug_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="72">
+>>>>>>> e782bc4 (Multiple changes (#6))
                     <mxGeometry x="30" width="150" height="30" as="geometry">
                         <mxRectangle width="150" height="30" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -947,10 +1142,13 @@
 >>>>>>> e782bc4 (Multiple changes (#6))
 =======
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+>>>>>>> e782bc4 (Multiple changes (#6))
                 <mxCell id="75" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="62">
                     <mxGeometry y="150" width="180" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="76" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="75">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> b786a11 (erd of project and readme file (#5))
@@ -958,10 +1156,13 @@
 >>>>>>> e782bc4 (Multiple changes (#6))
 =======
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+>>>>>>> e782bc4 (Multiple changes (#6))
                     <mxGeometry width="30" height="30" as="geometry">
                         <mxRectangle width="30" height="30" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -975,10 +1176,14 @@
 =======
                 <mxCell id="77" value="comment_text" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="75">
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+                <mxCell id="77" value="comment_text" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="75">
+>>>>>>> e782bc4 (Multiple changes (#6))
                     <mxGeometry x="30" width="150" height="30" as="geometry">
                         <mxRectangle width="150" height="30" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1000,6 +1205,8 @@
 >>>>>>> e782bc4 (Multiple changes (#6))
 =======
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+>>>>>>> e782bc4 (Multiple changes (#6))
                 <mxCell id="78" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;startArrow=ERone;startFill=0;endArrow=ERoneToMany;endFill=0;" edge="1" parent="1" source="3" target="22">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
@@ -1015,11 +1222,14 @@
                 <mxCell id="82" style="edgeStyle=orthogonalEdgeStyle;curved=1;html=1;entryX=-0.009;entryY=0.283;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=ERone;startFill=0;endArrow=ERoneToMany;endFill=0;" edge="1" parent="1" source="19" target="72">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> b786a11 (erd of project and readme file (#5))
 =======
 >>>>>>> e782bc4 (Multiple changes (#6))
 =======
 >>>>>>> b786a11 (erd of project and readme file (#5))
+=======
+>>>>>>> e782bc4 (Multiple changes (#6))
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
             </root>

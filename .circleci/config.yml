@@ -30,7 +30,6 @@ jobs:
 
 # See: https://circleci.com/docs/2.0/configuration-reference/#workflows
 workflows:
-<<<<<<< HEAD
   # build-workflow:
   #   jobs:
   #     - build:
@@ -38,15 +37,6 @@ workflows:
   #         branches:
   #           only:
   #             - main
-=======
-  build-workflow:
-    jobs:
-      - build:
-        filters:
-          branches:
-            only:
-              - main
->>>>>>> e782bc4 (Multiple changes (#6))
   say-hello-workflow:
     jobs:
       - say-hello:

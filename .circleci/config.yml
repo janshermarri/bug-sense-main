@@ -36,7 +36,11 @@ jobs:
 workflows:
   build-workflow:
     jobs:
-      - build
+      - build:
+        filters:
+          branches:
+            only:
+              - main
   say-hello-workflow:
     jobs:
       - say-hello

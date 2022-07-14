@@ -33,7 +33,7 @@ SECRET_KEY = env('SECRET_KEY')
 DEBUG = True
 
 # ALLOWED_HOSTS = [env('SERVER_URL'), '127.0.0.1']
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost']
 
 
 # Application definition

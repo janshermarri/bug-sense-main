@@ -16,7 +16,7 @@ class Project(models.Model):
     project_status = models.CharField(max_length=9, choices=STATUS_CHOICES)
 
     def __str__(self):
-        return self.project_name + ' ' + self.project_status
+        return self.project_name
 
 
 class Bug(models.Model):

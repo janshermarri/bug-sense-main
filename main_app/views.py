@@ -14,5 +14,6 @@ class BugViewSet(viewsets.ModelViewSet):
     serializer_class = BugSerializer
 
 class CommentViewSet(viewsets.ModelViewSet):
+    permission_classes = [IsAuthenticated]
     queryset = Comment.objects.all()
     serializer_class = CommentSerializer
